@@ -92,8 +92,31 @@ box-shadow: 1px 1px 5px 4px #aa838b;}
     width: 800px;
     display: flex;
     flex-direction: row;
+<<<<<<< HEAD
     justify-content: center;
     font-family: 'Bree Serif', serif;
+=======
+    justify-content: space-evenly;
+    border-color: darkblue;
+    box-sizing: content-box;
+    text-align: center;
+    color: black;
+
+    
+}
+body{
+  background-color: rgb(242, 238, 241);
+}
+.head{
+  color: darkblue;
+  width: 1260px;
+  height: 0px;
+  background-color: #e8728a;
+  padding-left: 30px;
+  margin: 0px;
+  text-align: center;
+  padding-bottom: 40px;
+>>>>>>> 16a7566de6299c7ac4c52d0bd0d735726f2f08ec
 }
 
   .Personalized-Gift-heading-container{

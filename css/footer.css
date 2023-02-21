@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Fragment+Mono&display=swap');
 footer{
     /* background-color: #576a88; */
-    background-color: black;
+    background-color:#4f6280 ;
     margin-top: 10px;
 }
 .footer-container-main{
@@ -54,8 +54,6 @@ footer{
     display: inline;
     font-family: 'Roboto', sans-serif;
     padding-left: 2px; 
-    border-bottom:5px solid orange;
-
 }
 
 .footer-h2{
