@@ -58,6 +58,33 @@ footer{
 
 }
 
+.footer-h2{
+    display: inline;
+    font-family: 'Roboto', sans-serif;
+    padding-right: 2px;
+    margin: -20px;
+    border-bottom:5px solid orange;
+
+}
+
+.footer-h3{
+    display: inline;
+    font-family: 'Roboto', sans-serif;
+    padding-right: 2px;
+    margin: 50px;
+    border-bottom:5px solid orange;
+
+}
+
+.footer-h4{
+    display: inline;
+    font-family: 'Roboto', sans-serif;
+    padding-right: 2px;
+    margin: 50px;
+    border-bottom:5px solid orange;
+
+}
+
 .footer-a{
     color: #ffffff;
     text-decoration: none;
